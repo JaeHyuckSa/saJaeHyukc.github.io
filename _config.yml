@@ -20,7 +20,7 @@ timezone: Asia/Seoul
 
 title: SaJH's 개발노트 # the main title
 
-tagline: 안녕하세요. SaJH입니다.<br> 개발의 발자취를 남기는 중 입니다. <br>🔥블로그 옮기는 중🔥  # it will display as the sub-title
+tagline: 안녕하세요. SaJH입니다.<br> 개발의 발자취를 남기는 중 입니다. <br>🔥개발 공부 중🔥  # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   깊게 탐구하는 Django 개발자입니다. 올린 것들이 누군가에게 도움이 되고 훗날에 스스로 도움이 될 수 있기에 기록합니다. 
